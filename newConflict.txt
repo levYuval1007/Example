@@ -3,3 +3,6 @@ Is
 A
 addFile
 Conflict
+New
+
+Conflict
